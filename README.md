@@ -23,11 +23,11 @@ typings install es6-shim --save --ambient
 
 ### Try
 
-[x] Example 1
-[x] Example 2
-[x] Example 3
-[x] Example 4
-[x] Example 5
-[x] Example 6
-[ ] Example 7
-[ ] Example 8
+- [x] Example 1
+- [x] Example 2
+- [x] Example 3
+- [x] Example 4
+- [x] Example 5
+- [x] Example 6
+- [ ] Example 7
+- [ ] Example 8

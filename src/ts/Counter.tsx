@@ -31,3 +31,4 @@ class Counter extends React.Component<any, any> {
 
 
 export default (connect(mapStateToProps, mapDispatchToProps)(Counter));
+export let __hotReload = true;

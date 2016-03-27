@@ -1,5 +1,6 @@
 System.config({
   baseURL: "/",
+  trace: true,
   defaultJSExtensions: true,
   transpiler: "typescript",
   paths: {

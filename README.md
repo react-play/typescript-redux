@@ -31,3 +31,16 @@ typings install es6-shim --save --ambient
 - [x] Example 6
 - [ ] Example 7
 - [ ] Example 8
+
+
+### jspm-server hot-reload (no working)
+
+```
+Change detected: src/ts/App.tsx
+Change detected: src/js/App.js
+✅  SystemJS loaded. Initialising ChangeHandler
+💥  Change to http://127.0.0.1:8080/src/ts/App.tsx.js cannot be handled gracefully:
+👉  Change occurred to a file outside SystemJS loading
+💥  Change to http://127.0.0.1:8080/src/js/App.js cannot be handled gracefully:
+👉  Change occurred to a file outside SystemJS loading
+```

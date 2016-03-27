@@ -2,7 +2,8 @@
     "compilerOptions": {
         "outDir": "./src/js",
         "jsx": "react",
-        "module": "system"
+        "module": "system",
+        "target": "es6"
     },
     "filesGlob": [
         "./src/ts/**.tsx"

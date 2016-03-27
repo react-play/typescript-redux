@@ -28,3 +28,4 @@ let provider =
     );
 
 ReactDOM.render(provider, document.getElementById("react"));
+export let __hotReload = true;

@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./src/js",
+        "jsx": "react",
+        "module": "system"
+    },
+    "filesGlob": [
+        "./src/ts/**.tsx"
+    ],
+    "files": [
+        "./src/ts/App.tsx",
+        "./src/ts/Counter.tsx"
+    ],
+    "compileOnSave": true,
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
